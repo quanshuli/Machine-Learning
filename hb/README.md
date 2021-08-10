@@ -1,0 +1,1 @@
+Study of Python Data Science Handbook by Jake VanderPlas.
